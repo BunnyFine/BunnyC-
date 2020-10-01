@@ -1,1 +1,1 @@
-# This is a Railway Reservation System Built using C++.
+# This is a Railway Reservation System built using C++.
